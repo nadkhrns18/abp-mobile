@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:course_asset_management/config/app_constant.dart';
-import 'package:course_asset_management/pages/HomePage.dart';
+import 'package:course_asset_management/pages/asset/HomePage.dart';
 import 'package:d_info/d_info.dart';
 import 'package:d_method/d_method.dart';
 import 'package:flutter/material.dart';
